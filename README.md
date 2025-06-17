@@ -5,7 +5,7 @@ This repository outlines the architecture and configuration of my personal cloud
 ---
 
 ## 🛠️ Overview
-
+![VPS](pic/vps.jpeg)
 | Service | Description |
 |---------|-------------|
 | **OpenWebUI** | Personal LLM interface with custom memory and function support |
